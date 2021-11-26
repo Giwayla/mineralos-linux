@@ -1,1 +1,1 @@
-# MineralOS Linux
+# MineralOS Linux.
